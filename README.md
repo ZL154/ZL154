@@ -5,7 +5,7 @@
 ### Developer & self-hoster - I build apps, plugins, and homelab tooling 🛠️
 
 <a href="https://github.com/ZL154">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=640&lines=Developer+%26+self-hoster;Apps%2C+plugins+%26+homelab+tooling;Security-minded%2C+homelab-grown;...not+just+a+Jellyfin+dev+%F0%9F%98%89" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8A2BE2&center=true&vCenter=true&width=640&lines=Developer+%26+self-hoster;Apps%2C+plugins+%26+homelab+tooling" alt="typing" />
 </a>
 
 *I like shipping things end to end: cross-platform apps, front-ends, APIs, and self-hosted infrastructure - with a security-first streak and a homelab to break it all on. A good chunk of my open-source work lives in the **Jellyfin** ecosystem (security, gamification, quality-of-life)*
