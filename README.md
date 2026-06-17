@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BSmVsbHlmaW48L3RpdGxlPjxwYXRoIGQ9Ik0xMiAuMDAyQzguODI2LjAwMi0xLjM5OCAxOC41MzcuMTYgMjEuNjY2YzEuNTYgMy4xMjkgMjIuMTQgMy4wOTQgMjMuNjgyIDBDMjUuMzg0IDE4LjU3MyAxNS4xNzcgMCAxMiAwem03Ljc2IDE4Ljk0OWMtMS4wMDggMi4wMjgtMTQuNDkzIDIuMDUtMTUuNTE0IDBDMy4yMjQgMTYuOSA5LjkyIDQuNzU1IDEyLjAwMyA0Ljc1NWMyLjA4MSAwIDguNzcgMTIuMTY2IDcuNzU5IDE0LjE5NnpNMTIgOS4xOThjLTEuMDU0IDAtNC40NDYgNi4xNS0zLjkzIDcuMTg5LjUxOCAxLjA0IDcuMzQ4IDEuMDI3IDcuODYgMCAuNTExLTEuMDI3LTIuODc0LTcuMTktMy45My03LjE5eiIvPjwvc3ZnPg%3D%3D&logoColor=white" />
 </p>
 
 ---
@@ -108,7 +108,6 @@
 
 If something I've built is useful to you:
 
-<a href="https://github.com/sponsors/ZL154"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white" /></a>
-<a href="https://ko-fi.com/zl154"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+<a href="https://ko-fi.com/zl154"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
 
 </div>
