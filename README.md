@@ -38,10 +38,10 @@
 | Project | ⭐ | What it does |
 |:--|:--:|:--|
 | **[JellyfinSecurity](https://github.com/ZL154/JellyfinSecurity)** | ![](https://img.shields.io/github/stars/ZL154/JellyfinSecurity?style=flat&label=&color=8a2be2) | Native 2FA (TOTP/email), passkeys, OIDC/SSO, brute-force IP banning, impossible-travel detection |
-| **[AchievementBadges](https://github.com/ZL154/AchievementBadges_for_Jellyfin)** | ![](https://img.shields.io/github/stars/ZL154/AchievementBadges_for_Jellyfin?style=flat&label=&color=8a2be2) | Achievement-style badges from viewing activity — first watch, binges, late-night |
+| **[AchievementBadges](https://github.com/ZL154/AchievementBadges_for_Jellyfin)** | ![](https://img.shields.io/github/stars/ZL154/AchievementBadges_for_Jellyfin?style=flat&label=&color=8a2be2) | Achievement-style badges from viewing activity - first watch, binges, late-night |
 | **[StarTrack](https://github.com/ZL154/jellyfin-plugin-startrack)** | ![](https://img.shields.io/github/stars/ZL154/jellyfin-plugin-startrack?style=flat&label=&color=8a2be2) | Letterboxd-style star ratings + Trakt / Simkl / Letterboxd / Yamtrack sync |
 | **[MissingEpisodes](https://github.com/ZL154/MissingEpisodesJellyfin)** | ![](https://img.shields.io/github/stars/ZL154/MissingEpisodesJellyfin?style=flat&label=&color=8a2be2) | Scan library / Sonarr for missing episodes with auto-search |
-| **[Projectionist](https://github.com/ZL154/jellyfin-projectionist)** | ![](https://img.shields.io/github/stars/ZL154/jellyfin-projectionist?style=flat&label=&color=8a2be2) | Folder-based prerolls before movies & episodes — schedules, rules, maturity gating |
+| **[Projectionist](https://github.com/ZL154/jellyfin-projectionist)** | ![](https://img.shields.io/github/stars/ZL154/jellyfin-projectionist?style=flat&label=&color=8a2be2) | Folder-based prerolls before movies & episodes - schedules, rules, maturity gating |
 
 ---
 
