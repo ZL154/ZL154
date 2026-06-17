@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=ZL154&label=Profile%20views&color=8a2be2&style=flat" alt="views" />
   <a href="https://github.com/ZL154?tab=followers"><img src="https://img.shields.io/github/followers/ZL154?label=Followers&style=flat&color=8a2be2&logo=github" /></a>
   <img src="https://img.shields.io/badge/Self--hosted-Homelab-8a2be2?style=flat" />
-  <img src="https://img.shields.io/badge/Security-minded-8a2be2?style=flat" />
 </p>
 
 </div>
