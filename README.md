@@ -11,9 +11,10 @@
 *I like shipping things end to end: cross-platform apps, front-ends, APIs, and self-hosted infrastructure - with a security-first streak and a homelab to break it all on. A good chunk of my open-source work lives in the **Jellyfin** ecosystem (security, gamification, quality-of-life)*
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ZL154&label=Profile%20views&color=8a2be2&style=flat" alt="views" />
-  <a href="https://github.com/ZL154?tab=followers"><img src="https://img.shields.io/github/followers/ZL154?label=Followers&style=flat&color=8a2be2&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Self--hosted-Homelab-8a2be2?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=ZL154&label=Profile%20views&color=8a2be2&style=flat-square" alt="views" />
+  <a href="https://github.com/ZL154?tab=followers"><img src="https://img.shields.io/github/followers/ZL154?label=Followers&style=flat-square&color=8a2be2&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/ZL154?tab=repositories"><img src="https://img.shields.io/badge/Jellyfin-ecosystem-00A4DC?style=flat-square&logo=jellyfin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Self--hosted-Homelab-8a2be2?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 </div>
