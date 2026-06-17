@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm ZL154 👋
+# Hey, I'm ZL154 
 
-### Developer & self-hoster — I build apps, plugins, and homelab tooling 🛠️
+### Developer & self-hoster - I build apps, plugins, and homelab tooling 🛠️
 
-*I like shipping things end to end: cross-platform apps, front-ends, APIs, and self-hosted infrastructure — with a security-first streak and a homelab to break it all on. A good chunk of my open-source work lives in the **Jellyfin** ecosystem (security, gamification, quality-of-life), but that's a focus, not the whole story.*
+*I like shipping things end to end: cross-platform apps, front-ends, APIs, and self-hosted infrastructure - with a security-first streak and a homelab to break it all on. A good chunk of my open-source work lives in the **Jellyfin** ecosystem (security, gamification, quality-of-life)*
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=ZL154&label=Profile%20views&color=8a2be2&style=flat" alt="views" />
@@ -19,17 +19,17 @@
 
 ## ⚡ What I'm into
 
-- 🧩 **Plugins & extensions** — deep media-server integrations (auth, gamification, ratings, automation)
-- 📱 **Cross-platform apps** — desktop / mobile / TV clients
-- 🌐 **Front-end & APIs** — injected web UIs, REST services, clean admin dashboards
-- 🔐 **Security** — 2FA / passkeys / OIDC, threat modelling, auditing my own code
-- 🐳 **Self-hosting** — Docker, reverse proxies, tunnels, homelab everything
+- 🧩 **Plugins & extensions** - deep media-server integrations (auth, gamification, ratings, automation)
+- 📱 **Cross-platform apps** - desktop / mobile / TV clients
+- 🌐 **Front-end & APIs** - injected web UIs, REST services, clean admin dashboards
+- 🔐 **Security** - 2FA / passkeys / OIDC, threat modelling, auditing my own code
+- 🐳 **Self-hosting** - Docker, reverse proxies, tunnels, homelab everything
 
 ---
 
 ## 🧩 Open-source highlights
 
-> Most of my public, in-production code right now — the Jellyfin plugin suite:
+> Most of my public, in-production code right now - the Jellyfin plugin suite:
 
 | Project | ⭐ | What it does |
 |:--|:--:|:--|
